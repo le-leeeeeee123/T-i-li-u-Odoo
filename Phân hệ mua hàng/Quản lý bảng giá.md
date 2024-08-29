@@ -4,12 +4,12 @@ Chức năng này quản lý bảng giá bán của NCC cho từng sản phẩm.
 
 **Bước 1:** Người dùng vào menu: Mua hàng >> Cấu hình >> Bảng giá nhà cung cấp >> Kích Tạo.
 
-![alt text](image-6.png)
+![alt text](./ảnh/image-6.png)
 
 **Bước 2:** Người dùng nhập các thông tin vào form tạo bảng giá cho sản phẩm. Lưu ý các trường có gạch chân đậm là trường dữ liệu bắt buộc nhập:
 Nhà cung cấp: nhà cung cấp sản phẩm. Lưu ý, một sản phẩm có thể tạo nhiều bảng giá với nhiều NCC khác nhau.
 
-![alt text](image-7.png)
+![alt text](./ảnh/image-7.png)
 
 + Tên sản phẩm phía NCC: sử dụng trong trường hợp mình muốn quản lý tên sản phẩm của NCC.
 
@@ -35,7 +35,7 @@ Ngoài cách tạo bảng giá thủ công, hệ thống cung cấp file mẫu e
 **Bước 1:** Người dùng chọn menu: Mua hàng >> Cấu hình >> Bảng giá nhà cung cấp >> Nhập.
 
 **Bước 2:** Kích Nạp tập tin >> Chọn file cần import.
-![alt text](image-8.png)
+![alt text](./ảnh/image-8.png)
 
 **Bước 3:** Kích Kiểm thử để kiểm tra tính hợp lệ của dữ liệu:
 

@@ -1,14 +1,14 @@
 # 1.Quản lý thông tin NCC
 Tính năng này hỗ trợ người dùng lưu trữ và quản lý thông tin của tất cả NCC của doanh nghiệp được người dùng đưa lên.
-![alt text](image.png)
+![alt text](./ảnh/image.png)
 
 
 **Bước 1:** Người dùng đi đến menu: Mua hàng >> Đơn hàng >> Nhà cung cấp.
 
-![alt text](image-1.png)
+![alt text](./ảnh/image-1.png)
 **Bước 2:** Kích nút ```Mới``` để mở màn hình thông tin NCC.
 
-![alt text](image-2.png)
+![alt text](./ảnh/image-2.png)
 
 **Bước 3:** Nhập các thông tin của NCC:
 
@@ -22,10 +22,10 @@ Tính năng này hỗ trợ người dùng lưu trữ và quản lý thông tin 
 
 Ghi chú nội bộ: Các thông tin khác nếu có.
 
-![alt text](image-3.png)
+![alt text](./ảnh/image-3.png)
 
 
 **Bước 4:** Người dùng kích Lưu để lưu những thông tin vừa cấu hình.
-![alt text](image-4.png)
+![alt text](./ảnh/image-4.png)
 
-![alt text](image-5.png)
+![alt text](./ảnh/image-5.png)
